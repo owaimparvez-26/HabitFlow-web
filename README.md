@@ -1,4 +1,4 @@
 # HabitFlow-web
-A personal daily goals and diet tracker web app in which you track today goals 
+A personal daily goals and diet tracker web app in which you track today goals and track youself
 <br>
 Author - Owiam Parvez
